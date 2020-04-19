@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tracker2</string>
+    <string name="title_activity_maps">Tracker</string>
+    <string name="error_receiver_not_availale">Receiver not available</string>
+    <string name="error_address_unavailable">address unaviable</string>
+    <string name="error_exception_while_getting_address">exception while getting address</string>
+</resources>
